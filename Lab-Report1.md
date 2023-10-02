@@ -12,5 +12,5 @@ The command with a path to a file tells outputs the file name, no errors.
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/e158f280-6359-48bc-ba7d-0b4422316801)
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/1f45c2fb-583b-4028-8c1e-b5df9ee11265)
 Using cat with no args results in the terminal outputting the user's inputs, no errors.
-Using cat with a directory outputs the terminal that the directory is a directory.
+Using cat with a directory outputs the terminal that the directory is a directory, no errors.
 Using cat with a file reads the file contents and outputs them, no errors.
