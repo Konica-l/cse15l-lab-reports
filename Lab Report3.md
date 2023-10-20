@@ -1,6 +1,5 @@
-### Part 1
-Code:
----
+## Part 1
+###Code:
 import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
@@ -72,15 +71,14 @@ Strings gets strings added to its array from lines 21-24.
 
 
 
-Part 2:
----
+##Part 2:
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/231e065b-da9c-4482-ad6e-d511eb43240e)
 
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/7e193a5c-caea-497e-84dd-286cde97ff02)
 
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/9d622ea9-9742-49b1-9f03-eb2b37b4bdb0)
 
-Part 3:
----
+##Part 3:
+
 Something new I learned from lab 2 and 3 are how servers are created and websites. I understand why there exists server rooms now considering
 that in order for a website to function, we need a client to run it.
