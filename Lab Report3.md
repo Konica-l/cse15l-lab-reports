@@ -74,12 +74,14 @@ Strings gets strings added to its array from lines 21-24.
 
 ## Part 2:
 Private key SINCE THE KEY IS LOCATED IN MY COMPUTER
-![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/08ffb0ed-dd5c-4cbe-98f6-201655c35d8b)
+![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/3de59e32-1cc5-4a36-ada8-002810b6c925)
+
 
 
 
 Public key SINCE THE KEY IS LOCATED IN THE IENG6 ACCOUNT
-![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/f2ee426c-31df-4053-baa2-d997a92eb4a2)
+![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/b715ae57-929f-4d5f-9717-3efe9f21adf1)
+
 
 
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/9d622ea9-9742-49b1-9f03-eb2b37b4bdb0)
