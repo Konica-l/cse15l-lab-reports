@@ -1,5 +1,6 @@
 ## Part 1
 ### Code:
+```
 import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
@@ -8,7 +9,7 @@ class Handler implements URLHandler {
     // The one bit of state on the server: a number that will be manipulated by
     // various requests.
     int index = 1;
-    ArrayList<String> Strings = new ArrayList<String>();
+    ArrayList<String> Strings = new ArrayList<String>(); //ArrayList String Declared
 
     public String handleRequest(URI url) {
         if (url.getPath().equals("/")) {
@@ -16,8 +17,8 @@ class Handler implements URLHandler {
         } 
         else if (url.getPath().contains("/add-message")) {
             String[] parameters = url.getQuery().split("=");
-            String IntFormat = "";
-            if (parameters[1].contains("+")){ 
+            String intFormat = "";
+            if (parameters[1].contains("s")){ 
                 String SpaceStr = parameters[1].replaceAll("\\+", " ");
                 IntFormat = IntFormat.format("%x", index);
                 Strings.add(IntFormat);
@@ -51,13 +52,13 @@ class StringServer {
         Server.start(port, new Handler());
     }
 }
-
+```
 
 Screenshots:
 ---
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/691c3ff7-95d3-4d2b-88e3-e7b119a391e9)
 My handleRequest method was called. The relevant arguments in the method within this screenshot is in lines 15-18, 31-37. 
-The values in those fields are index = 1, IntFormat = "1", String = ["add-messages?s", "hello"], Strings = []. The values that are changed
+The values in those fields are index = 1, IntFormat = "1", String = ["add-messages?s", "hello"], Strings = [] and the URL = "http://ieng6-202.ucsd.edu:4000/". The values that are changed
 in this field are Strings and index since index is postincremented before the method is done via index++, Strings gets strings added to its array as the
 add method is used in lines 29-32.
 
@@ -72,9 +73,14 @@ Strings gets strings added to its array from lines 21-24.
 
 
 ## Part 2:
-![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/231e065b-da9c-4482-ad6e-d511eb43240e)
+Private key SINCE THE KEY IS LOCATED IN MY COMPUTER
+![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/1f948d0b-a133-4414-bb37-6dd7893db93a)
 
+
+Public key SINCE THE KEY IS LOCATED IN THE IENG6 ACCOUNT
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/7e193a5c-caea-497e-84dd-286cde97ff02)
+![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/f2ee426c-31df-4053-baa2-d997a92eb4a2)
+
 
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/9d622ea9-9742-49b1-9f03-eb2b37b4bdb0)
 
