@@ -78,7 +78,6 @@ Private key SINCE THE KEY IS LOCATED IN MY COMPUTER
 
 
 Public key SINCE THE KEY IS LOCATED IN THE IENG6 ACCOUNT
-![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/7e193a5c-caea-497e-84dd-286cde97ff02)
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/f2ee426c-31df-4053-baa2-d997a92eb4a2)
 
 
