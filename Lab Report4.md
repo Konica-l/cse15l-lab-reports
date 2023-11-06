@@ -19,7 +19,9 @@ public void testReversedInPlaceFailure() {
 }
 ```
 Symptom output in JUnit
-![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/bb8f75b9-7345-423f-b089-0114717d85ff)
+
+![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/d521ed1b-a299-4ead-8a73-e98048ae30b2)
+
 
 The Bug change before:
 ```
