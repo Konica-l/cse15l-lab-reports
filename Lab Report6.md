@@ -9,7 +9,8 @@ However, I ran into an issue with the testing where I inputted [apple, a] but go
 
 Can someone explain why I'm getting this output? 
 
-## TA: Hi Student A! Can you share the contents of the file so that we can see what the problem is? We won't really be able to identify what the problem is if we don't see your implementation.
+## TA: 
+Hi Student A! Can you share the contents of the file so that we can see what the problem is? We won't really be able to identify what the problem is if we don't see your implementation.
 
 ## Student A:
 
