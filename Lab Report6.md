@@ -9,9 +9,10 @@ However, I ran into an issue with the testing where I inputted [apple, a] but go
 
 Can someone explain why I'm getting this output? 
 
->TA: Hi Student A! Can you share the contents of the file so that we can see what the problem is? We won't really be able to identify
+##TA: Hi Student A! Can you share the contents of the file so that we can see what the problem is? We won't really be able to identify
    what the problem is if we don't see your implementation.
->Student A:
+
+##Student A:
 
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/3d58277a-8e43-4e24-baeb-a92a8452ef5c)
 
