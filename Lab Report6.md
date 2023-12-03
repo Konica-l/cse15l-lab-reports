@@ -9,8 +9,7 @@ However, I ran into an issue with the testing where I inputted [apple, a] but go
 
 Can someone explain why I'm getting this output? 
 
-## TA: Hi Student A! Can you share the contents of the file so that we can see what the problem is? We won't really be able to identify
-   what the problem is if we don't see your implementation.
+## TA: Hi Student A! Can you share the contents of the file so that we can see what the problem is? We won't really be able to identify what the problem is if we don't see your implementation.
 
 ## Student A:
 
@@ -38,6 +37,7 @@ Structure (required directory: "buggy", "lib") (required files: ListExamples.jav
 
 ![image](https://github.com/Konica-l/cse15l-lab-reports/assets/144089855/8d642852-bb6d-4038-b07c-2d722be76d11)
 
+ListExamples.java, TestListExamples.java, test.sh, and lib should be in buggy directory.
 hamcrest-core-1.3.jar and junit-4.14.2.jar should be in the lib directory.
 
 ## Command lines to trigger bug:
